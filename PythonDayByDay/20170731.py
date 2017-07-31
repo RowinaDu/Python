@@ -9,7 +9,7 @@ for car in cars:
         print(car.upper())
     else:
         print(car.title())
-print (car != "bmw")
+print(car != "bmw")
 
 if car != "bmw":
     print (car.lower())

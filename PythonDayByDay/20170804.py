@@ -16,3 +16,5 @@ for value in set(user_0.values()):          #去重value
 print()
 for value in user_0.values():
     print("all value: " + value)
+for key in user_0.items():
+    print(key)
